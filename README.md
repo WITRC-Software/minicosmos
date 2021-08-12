@@ -1,0 +1,2 @@
+# minicosmos
+Minicosmos, an OS.
