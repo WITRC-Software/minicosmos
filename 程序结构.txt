@@ -1,0 +1,14 @@
+tools: 装源码以外的各种东西
+arch : 源码 
+    i386：32位程序源代码
+        base : 内核程序
+            start.asm ：[空，未制作]
+        boot ：启动程序
+            fat12head.asm : boot启动程序
+            fat12run.asm  : bootloader
+            Makefile：编译脚本
+        debug ：编译结果
+        Makefile：编译脚本
+.gitignore : 文件后缀介绍
+LICENSE ：WITRC相关协议
+README.md ：系统相关介绍
